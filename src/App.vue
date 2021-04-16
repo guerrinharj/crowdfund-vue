@@ -123,10 +123,6 @@ export default {
     background-color:rgb(245, 244, 244)
   }
 
-  article {
-    height: 100vh;
-  }
-
   .container {
     width: 50%;
     margin: auto;
